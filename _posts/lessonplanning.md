@@ -14,8 +14,12 @@ categories: [week 14]
 1. Intro to simulations
     - describe what a simulation is from Collegeboard
     - how it is different from an experiment (ex. virtual vs. real life)
-    - have non-binary example of simulation (rolling dice)
-    - show parking lot example
+2. Show parking lot example and explain how the binary works (include learnings from binary lesson)
+3. Present Hacks
+    - fixing rolling dice code
+    - create something with binary?
+    - answer questions about simulations
+    - fill in the blank?
 
 
 ## Lesson To-Do:
