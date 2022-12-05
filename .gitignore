@@ -12,3 +12,5 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+_posts/2022-11-30-SimulationStudentLesson.md
+settings.ini
