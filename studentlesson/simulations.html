@@ -125,7 +125,7 @@ window.onload = wrap_img;
   <div class="post-content e-content" itemprop="articleBody">
     <ul id="toc" class="section-nav">
 <li class="toc-entry toc-h1"><a href="#Intro-to-Simulations">Intro to Simulations </a></li>
-<li class="toc-entry toc-h1"><a href="#Examples-of-Simulations">Examples of Simulations </a></li>
+<li class="toc-entry toc-h1"><a href="#Examples-of-Simulations:">Examples of Simulations: </a></li>
 <li class="toc-entry toc-h1"><a href="#Simulation-vs.-Experiment">Simulation vs. Experiment </a></li>
 <li class="toc-entry toc-h1"><a href="#A-Real-Life-Example">A Real Life Example </a></li>
 </ul><!--
@@ -144,7 +144,11 @@ window.onload = wrap_img;
 <a class="anchor" href="#Intro-to-Simulations" aria-hidden="true"><span class="octicon octicon-link"></span></a>Intro to Simulations<a class="anchor-link" href="#Intro-to-Simulations"> </a>
 </h1>
 <ul>
-<li>What is a simulation</li>
+<li>What is a simulation?<ul>
+<li>A simulation is an imitation of a situation or process</li>
+<li>Aka a virtual experiment </li>
+</ul>
+</li>
 </ul>
 
 </div>
@@ -153,9 +157,16 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Examples-of-Simulations">
-<a class="anchor" href="#Examples-of-Simulations" aria-hidden="true"><span class="octicon octicon-link"></span></a>Examples of Simulations<a class="anchor-link" href="#Examples-of-Simulations"> </a>
+<h1 id="Examples-of-Simulations:">
+<a class="anchor" href="#Examples-of-Simulations:" aria-hidden="true"><span class="octicon octicon-link"></span></a>Examples of Simulations:<a class="anchor-link" href="#Examples-of-Simulations:"> </a>
 </h1>
+<p>Simulations are used all the time over many different industries</p>
+<ul>
+<li>testing safety of a car</li>
+<li>testing the efficiency of a parking lot</li>
+<li>testing a new train route</li>
+</ul>
+
 </div>
 </div>
 </div>
@@ -166,8 +177,22 @@ window.onload = wrap_img;
 <a class="anchor" href="#Simulation-vs.-Experiment" aria-hidden="true"><span class="octicon octicon-link"></span></a>Simulation vs. Experiment<a class="anchor-link" href="#Simulation-vs.-Experiment"> </a>
 </h1>
 <ul>
-<li>def of experiment and explain difference</li>
-<li>advantages and disadvantages</li>
+<li>Experiment definition: procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact</li>
+</ul>
+<p>So, why use a simulation?</p>
+<ul>
+<li>Advantages: <ul>
+<li>Can be safer</li>
+<li>More cost-effective</li>
+<li>More efficient </li>
+<li>More data in less time</li>
+</ul>
+</li>
+<li>Disadvantages:<ul>
+<li>Not as accurate as experiments</li>
+<li>outside factors not included (ex: in rolling dice simulation gravity and air resistance)</li>
+</ul>
+</li>
 </ul>
 <p>leads into real life game example:</p>
 
@@ -190,6 +215,50 @@ window.onload = wrap_img;
 </div>
 </div>
 </div>
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">random</span>
+
+<span class="n">status</span> <span class="o">=</span> <span class="s2">"in"</span>
+<span class="k">while</span> <span class="n">status</span> <span class="o">!=</span> <span class="s2">"out"</span><span class="p">:</span>
+    <span class="n">chooseCorner</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"What corner do you choose?"</span><span class="p">)</span>
+
+    <span class="n">corner</span> <span class="o">=</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">4</span><span class="p">)</span>
+
+    <span class="k">if</span> <span class="nb">int</span><span class="p">(</span><span class="n">chooseCorner</span><span class="p">)</span> <span class="o">==</span> <span class="n">corner</span><span class="p">:</span>
+        <span class="n">status</span> <span class="o">=</span> <span class="s2">"out"</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"You chose corner number "</span> <span class="o">+</span> <span class="n">chooseCorner</span> <span class="o">+</span> <span class="s2">" and you're OUT"</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">"You chose corner number "</span> <span class="o">+</span> <span class="n">chooseCorner</span> <span class="o">+</span> <span class="s2">" and are still in!"</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+<div class="output_subarea output_stream output_stdout output_text">
+<pre>You chose corner number 2 and are still in!
+You chose corner number 1 and you're OUT
+</pre>
+</div>
+</div>
+
+</div>
+</div>
+
+</div>
+    
+
 </div>
 
 
