@@ -131,10 +131,11 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h1"><a href="#A-Real-Life-Example---Lydia-&-Ava">A Real Life Example - Lydia &amp; Ava </a>
 <ul>
 <li class="toc-entry toc-h2"><a href="#Hack-#1">Hack #1 </a></li>
-<li class="toc-entry toc-h2"><a href="#Hack-#2">Hack #2 </a></li>
+<li class="toc-entry toc-h2"><a href="#Hack-#2-(collegeboard-based-questions)">Hack #2 (collegeboard based questions) </a></li>
 </ul>
 </li>
-<li class="toc-entry toc-h1"><a href="#Rolling-a-Dice-Example---Sri">Rolling a Dice Example - Sri </a>
+<li class="toc-entry toc-h1"><a href="#Rolling-a-Dice-Example---Sri">Rolling a Dice Example - Sri </a></li>
+<li class="toc-entry toc-h1"><a href="#Game-of-Life---Lydia-&-Ava">Game of Life - Lydia &amp; Ava </a>
 <ul>
 <li class="toc-entry toc-h2"><a href="#Hack-#3">Hack #3 </a></li>
 <li class="toc-entry toc-h2"><a href="#Hack-#4">Hack #4 </a></li>
@@ -162,6 +163,9 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<style>
+    background-color: darkgrey;
+</style>
 <h1 id="3.16-Intro-to-Simulations---Alexa">
 <a class="anchor" href="#3.16-Intro-to-Simulations---Alexa" aria-hidden="true"><span class="octicon octicon-link"></span></a>3.16 Intro to Simulations - Alexa<a class="anchor-link" href="#3.16-Intro-to-Simulations---Alexa"> </a>
 </h1>
@@ -231,6 +235,11 @@ window.onload = wrap_img;
 <strong>Disadvantages</strong>:<ul>
 <li>Not as accurate as experiments</li>
 <li>outside factors not included (ex: in rolling dice simulation gravity and air resistance)</li>
+</ul>
+</li>
+<li>When do you <u>not</u> use a simulation?<ul>
+<li>when a situation already has set results/data (won't change) </li>
+<li>examples: a score in a game, most purchased food, average yearly wage</li>
 </ul>
 </li>
 </ul>
@@ -316,8 +325,8 @@ You chose corner number 4 and you're OUT
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Hack-#2">
-<a class="anchor" href="#Hack-#2" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hack #2<a class="anchor-link" href="#Hack-#2"> </a>
+<h2 id="Hack-#2-(collegeboard-based-questions)">
+<a class="anchor" href="#Hack-#2-(collegeboard-based-questions)" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hack #2 (collegeboard based questions)<a class="anchor-link" href="#Hack-#2-(collegeboard-based-questions)"> </a>
 </h2>
 <ul>
 <li>Simulations Quiz (either screenshot or paste quiz in your notebook):</li>
@@ -443,6 +452,9 @@ You chose corner number 4 and you're OUT
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Game-of-Life---Lydia-&amp;-Ava">
+<a class="anchor" href="#Game-of-Life---Lydia-&amp;-Ava" aria-hidden="true"><span class="octicon octicon-link"></span></a>Game of Life - Lydia &amp; Ava<a class="anchor-link" href="#Game-of-Life---Lydia-&amp;-Ava"> </a>
+</h1>
 <p></p>
 <style>
     #container {
@@ -524,9 +536,9 @@ function updateContainer() {
     arr.forEach((val, c) => {
         let n = r*GRID_SIZE + c;
         if(val === 1) {
-        document.getElementById("cell-"+n).style['background-color'] = 'yellow';
+        document.getElementById("cell-"+n).style['background-color'] = 'royalblue';
         }else {
-        document.getElementById("cell-"+n).style['background-color'] = 'royalblue'
+        document.getElementById("cell-"+n).style['background-color'] = 'lightpink'
         }
     });
     })
