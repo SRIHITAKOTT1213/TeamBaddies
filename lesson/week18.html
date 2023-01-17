@@ -79,7 +79,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      1 min read
+      2 min read
     
 </span></p>
 
@@ -103,7 +103,8 @@ window.onload = wrap_img;
 <li class="toc-entry toc-h3"><a href="#workout-log-input-and-table">Workout Log Input and Table</a></li>
 </ul>
 </li>
-<li class="toc-entry toc-h2"><a href="#frontend-code">Frontend Code</a>
+<li class="toc-entry toc-h2"><a href="#frontend-code">Frontend Code</a></li>
+<li class="toc-entry toc-h2"><a href="#backend-code">Backend Code</a>
 <ul>
 <li class="toc-entry toc-h4"><a href="#crud">CRUD</a></li>
 <li class="toc-entry toc-h3"><a href="#css-on-our-home-page">CSS on our Home Page</a></li>
@@ -117,7 +118,9 @@ window.onload = wrap_img;
 <p><img src="/TeamBaddies/images/homepage.jpg" alt="home page">
 <img src="/TeamBaddies/images/indexpagebackend.jpg" alt="index backend">
 <img src="/TeamBaddies/images/defaulthtmlcode.jpg" alt="Defult HTML">
-<img src="/TeamBaddies/images/LoginButton.png" alt="Home Page Login"></p>
+<img src="/TeamBaddies/images/LoginButton.png" alt="Home Page Login">
+<img src="/TeamBaddies/images/loginhomebuttonview.png" alt="Home Page Login Goal">
+^ This image above is a view for how we would like our login button to eventually look like. Right now, the button is at teh bottom of the index page, but we would like to figure out how to add it the default html.</p>
 
 <h3 id="workout-log-page">
 <a class="anchor" href="#workout-log-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>Workout Log Page</h3>
@@ -150,14 +153,23 @@ window.onload = wrap_img;
   <li>This is the code that is the beginning step for C.R.U.D. This uses html 5 input in the table, allowing people to input their workouts. Then, the input will go through our UML process (shown in the ss above).</li>
 </ul>
 
+<h2 id="backend-code">
+<a class="anchor" href="#backend-code" aria-hidden="true"><span class="octicon octicon-link"></span></a>Backend Code</h2>
+<p><img src="/TeamBaddies/images/backendcode.png" alt="Backend Code">
+The image above is the Object Oriented Backend Code that will be used to process the data sent from the frontend forms. We are trying to have personalized data and tables for each user. I think that adding setter and getter functions for each table will allow users to have an individual experience. We would have one class called users, and their data would be extracted and added to dictionaries for each of the individual tables. I am not sure if this is exactly how this works, but it was a shot.</p>
+
 <h4 id="crud">
 <a class="anchor" href="#crud" aria-hidden="true"><span class="octicon octicon-link"></span></a>CRUD</h4>
 <ul>
   <li>C - In our website, we are creating a login system where the user can input their information and workouts on individual tables.</li>
   <li>R - The information inputted will go through our UML process.</li>
   <li>U - The information, once processed, will be added to the table (such as the workout logs)</li>
-  <li>D - The user could have the option to delete on command, not when the page refreshes.</li>
+  <li>D - The user could have the option to delete on command, not when the page refreshes.
+<img src="/TeamBaddies/images/CRUDex.png" alt="CRUD table">
+</li>
 </ul>
+
+<p>The image above is a view of how we would like our workout table to look, with data imputed from the user that can be edited and/or deleted.</p>
 
 <h3 id="css-on-our-home-page">
 <a class="anchor" href="#css-on-our-home-page" aria-hidden="true"><span class="octicon octicon-link"></span></a>CSS on our Home Page</h3>
