@@ -1,11 +1,11 @@
 ---
 
-title: Week 18 Backend to Frontend
+title: Notes on Rebecca (APCSA) Presentation
 toc: true
 comments: true
 layout: post
-description: Backend to Frontend with Input Planning
-permalink: /lesson/week18
+description: Notes on Rebecca's (APCSA) Presentation and Reflecting to Improve Our Project
+permalink: /projectproposal/APCSA
 categories: [week 20, planning]
 
 ---
