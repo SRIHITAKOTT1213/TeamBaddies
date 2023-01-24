@@ -33,3 +33,8 @@ categories: [week 20, planning]
 - made a specific plan/goal of everything they wil be completing in the next 6 weeks (assigned work)
 - issues/scrum board/manifesto
 
+## Taking into Account for our Group:
+- details = everything!
+- include lots of visuals
+- make a specific plan of how we are going to accomplish our project on time
+
