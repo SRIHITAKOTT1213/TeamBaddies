@@ -13,6 +13,7 @@ categories: [week 20, planning, project]
 ![Welcome Image]({{site.baseurl}}/images/welcome.png)
 
 ## Home Page (Nikhil)
+<body>
 <p>This page serves as a place to log in and to know more about our overall website and what it is about. </p>
 
 <img width="915" alt="Screenshot 2023-01-25 at 10 45 16 PM" src="https://user-images.githubusercontent.com/111464993/214773981-17a1b8e2-3e8f-46d4-b686-3a29ee50dbd1.png">
@@ -56,6 +57,8 @@ categories: [week 20, planning, project]
 
 <br>
 <br>
+
+</body>
 
 ## Workout Log Page (Sri)
 ![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
