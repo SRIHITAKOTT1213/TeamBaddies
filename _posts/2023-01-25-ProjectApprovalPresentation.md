@@ -15,6 +15,7 @@ categories: [week 20, planning, project]
 ## Home Page (Nikhil)
 ![home page]({{site.baseurl}}/images/homepage.jpg)
 
+
 - workout log page (Sri)
 ![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
 - This is a workout log where you can record your workouts and keep track of your fitness. This way, you can stay organized and maintain motivation to work towards a healthy lifestyle.
@@ -81,4 +82,5 @@ Future Challenges:
  ## Our Agile Manifesto (sri)
 ![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
 
-## Goal/Timeline (team)
+## Goal/Timeline
+- weekly progress goals
