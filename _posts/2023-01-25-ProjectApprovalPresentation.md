@@ -17,6 +17,11 @@ categories: [week 20, planning, project]
 
 - workout log page (Sri)
 ![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
+- This is a workout log where you can record your workouts and keep track of your fitness. This way, you can stay organized and maintain motivation to work towards a healthy lifestyle.
+- Has an input
+- Has a table at the bottom
+- Once you click submit button, it should add onto the table at the bottom (connection between frontend and backend)
+
 
 - workouts plan (Lydia)
 add image
@@ -46,5 +51,7 @@ add image
 
 
 - scrum board (Lydia)
-- manifesto (sri)
+ ## Our Agile Manifesto (sri)
+![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
+## What is ISPE?
 - goal/timeline (team)
