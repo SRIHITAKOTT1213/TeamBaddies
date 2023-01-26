@@ -22,7 +22,7 @@ categories: [week 20, planning, project]
 add image
 
 ## ISPE page (Alexa)
-add image
+![ISPE]({{site.baseurl}}/images/ISPEgrades.jpg)
 ## What is ISPE?
 **I**ndependent <br>
 **S**port <br>
@@ -46,6 +46,5 @@ add image
 
 
 - scrum board (Lydia)
-- issues (Nikhil)
 - manifesto (sri)
 - goal/timeline (team)
