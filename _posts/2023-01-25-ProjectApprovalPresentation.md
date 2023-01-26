@@ -13,8 +13,7 @@ categories: [week 20, planning, project]
 ![Welcome Image]({{site.baseurl}}/images/welcome.png)
 
 ## Home Page (Nikhil)
-<body>
-<p>This page serves as a place to log in and to know more about our overall website and what it is about. </p>
+> This page serves as a place to log in and to know more about our overall website and what it is about.
 
 <img width="915" alt="Screenshot 2023-01-25 at 10 45 16 PM" src="https://user-images.githubusercontent.com/111464993/214773981-17a1b8e2-3e8f-46d4-b686-3a29ee50dbd1.png">
 
@@ -24,7 +23,7 @@ categories: [week 20, planning, project]
 <br>
 
 
-<p> We have a link that connects to healthline.org and displays the benefits of exercising regularly. We also have displayed what our website includes, such as the ISPE, Sports workout, and Workout Log and what they are.  </p>
+We have a link that connects to healthline.org and displays the benefits of exercising regularly. We also have displayed what our website includes, such as the ISPE, Sports workout, and Workout Log and what they are. 
 <img width="1118" alt="Screenshot 2023-01-25 at 10 46 13 PM" src="https://user-images.githubusercontent.com/111464993/214774041-35bf6986-df46-482a-9e18-4100a299a7cc.png">
 
 <br>
@@ -33,7 +32,7 @@ categories: [week 20, planning, project]
 <br>
 
 
-<p> At the very bottom we have a login Burron where we press it and it redirects you to the login Page. </p>
+At the very bottom we have a login Burron where we press it and it redirects you to the login Page.
 <img width="1229" alt="Screenshot 2023-01-25 at 10 46 33 PM" src="https://user-images.githubusercontent.com/111464993/214774818-108c02a0-3511-470d-aa26-803a1b809aa3.png">
 
 <br>
@@ -42,26 +41,25 @@ categories: [week 20, planning, project]
 <br>
 
 
-<p> Here we have a login page that we have designed using HTML and CSS. The login portion asks the user to input their User ID or username and password and there is a checkbox to remember the username and password so the user does not have to re-enter it the next time they come into the website, so far this is just the styling.  We also have an option as you can see in grey where you can continue as a guest which will redirect you back to the website for normal use. </p>
+Here we have a login page that we have designed using HTML and CSS. The login portion asks the user to input their User ID or username and password and there is a checkbox to remember the username and password so the user does not have to re-enter it the next time they come into the website, so far this is just the styling.  We also have an option as you can see in grey where you can continue as a guest which will redirect you back to the website for normal use.
 <img width="1223" alt="Screenshot 2023-01-25 at 10 47 13 PM" src="https://user-images.githubusercontent.com/111464993/214774973-45638940-3c11-45c8-a2cf-23b0b7880bd8.png">
 <br>
 <br>
-<p> The registration portion asks you to enter a username of your choice, your email, and a password of your making, and then it asks you to accept the terms and conditions, we have not created the terms and conditions yet. 
+The registration portion asks you to enter a username of your choice, your email, and a password of your making, and then it asks you to accept the terms and conditions, we have not created the terms and conditions yet. 
 <img width="1153" alt="Screenshot 2023-01-25 at 10 47 19 PM" src="https://user-images.githubusercontent.com/111464993/214774977-f1f1aab8-4b1e-4f90-b61c-c5624e6838ad.png">
 
 <br>
 <br>
 
-<h3> Future Challenges </h3>
+### Future Challenges 
 * One big challenge is trying to connect the Backend to the Front End for the Login page, where the computer has to store all the login information from the registration page. 
 
 <br>
 <br>
 
-</body>
 
 ## Workout Log Page (Sri)
-![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
+![Workout Log]({{site.baseurl}}/images/workoutlogtable.jpg)
 - This is a workout log where you can record your workouts and keep track of your fitness. This way, you can stay organized and maintain motivation to work towards a healthy lifestyle.
 - Has an input
 - Has a table at the bottom
@@ -91,6 +89,7 @@ categories: [week 20, planning, project]
 - ISPE is a program for kids who are in individual sports and practice for 15+ hours a week and want middle/highschool credit for the PE (without taking the actual class)
 - This page allows students to keep track of the workouts they do for school and the grades they recieve.
 - It keeps students organized, motivated, and on track to get credit for the class.
+- This page incorporates CRUD since it will allow users to edit what workouts they have done
 
 <br>
 <br>
@@ -155,5 +154,6 @@ Future Challenges:
 <br>
 <br>
 
-## Goal/Timeline
-- weekly progress goals
+## Incorporating CRUD
+- many features on this website will have the ability to recieve input
+- every table will have an edit/delete option so users can update/add/delete their data
