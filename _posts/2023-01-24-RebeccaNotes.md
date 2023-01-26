@@ -26,7 +26,7 @@ categories: [week 20, planning]
 
 ## Their Presentation:
 - this group did a great job with their presentation
-- google slides?
+- used canva to present
 - included wireframes/UMLs (submit button = frontend -> backend)
 - listed challenges
 - showed a chart that showed level of acess (admin vs user)
@@ -35,6 +35,8 @@ categories: [week 20, planning]
 
 ## Taking into Account for our Group:
 - details = everything!
+- ^ for example, explain the exact purpose of every page (ex: ISPE page is to help kids keep track of their workouts/grades and to ensure they get the credit for the class)
 - include lots of visuals
-- make a specific plan of how we are going to accomplish our project on time
+- for example, this team included visuals on their scrum board and process, so we can show our agile manifesto and scrum board
+- can make a specific plan of how we are going to accomplish our project on time
 
