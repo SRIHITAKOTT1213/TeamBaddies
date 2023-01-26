@@ -16,7 +16,7 @@ categories: [week 20, planning, project]
 ![home page]({{site.baseurl}}/images/homepage.jpg)
 
 
-- workout log page (Sri)
+## Workout Log Page (Sri)
 ![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
 - This is a workout log where you can record your workouts and keep track of your fitness. This way, you can stay organized and maintain motivation to work towards a healthy lifestyle.
 - Has an input
@@ -25,7 +25,11 @@ categories: [week 20, planning, project]
 
 
 ## Workouts Plan (Lydia)
-add image
+![Workout Plans]({{site.baseurl}}/images/WorkoutInput.png)
+
+- This page is where you can find workout sets and plans for different kinds of sports- all of which are inputted by different users
+- Different categories to let people know which sport the plan benefits, what exercise, and how much time and reps
+- It allows for an organized way for people to share their ideas and workouts with other users on our site
 
 ## ISPE page (Alexa)
 ![ISPE]({{site.baseurl}}/images/ISPEgrades.jpg)
@@ -79,7 +83,13 @@ Future Challenges:
 
 ## Scrum Board (Lydia)
 
- ## Our Agile Manifesto (sri)
+![Scrum Board]({{site.baseurl}}/images/ScrumBoardPresentation.png)
+
+- This Scrum Board highlights and organizes our teams To Do List, our works "In Progress," and tasks we've completed
+- We use this Scrum Board (+ issues within our scrum board) to keep track of the tasks, as well as communicate with team members as to what needs to be accomplished. 
+- Allows for our project to be well planned and organized
+
+## Our Agile Manifesto (sri)
 ![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
 
 ## Goal/Timeline
