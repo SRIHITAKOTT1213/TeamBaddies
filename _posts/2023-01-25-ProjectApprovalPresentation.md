@@ -10,7 +10,7 @@ categories: [week 20, planning, project]
 
 ---
 
-- Welcome image (Ava)
+## Welcome Image (Ava)
 
 ## Home Page (Nikhil)
 ![home page]({{site.baseurl}}/images/homepage.jpg)
@@ -23,7 +23,7 @@ categories: [week 20, planning, project]
 - Once you click submit button, it should add onto the table at the bottom (connection between frontend and backend)
 
 
-- workouts plan (Lydia)
+## Workouts Plan (Lydia)
 add image
 
 ## ISPE page (Alexa)
@@ -39,9 +39,9 @@ add image
 - It keeps students organized, motivated, and on track to get credit for the class.
 
 
-- Inspo page (Ava)
+## Inspo Page (Ava)
 
-- our challenges (Ava)
+## Our Challenges (Ava)
 
 
 ## Admin vs User Access (Alexa)
@@ -49,9 +49,9 @@ add image
 - Any user with a normal account will only be able to see/add/edit their own inputs on their pages
 
 
+## Scrum Board (Lydia)
 
-- scrum board (Lydia)
  ## Our Agile Manifesto (sri)
 ![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
-## What is ISPE?
-- goal/timeline (team)
+
+## Goal/Timeline (team)
