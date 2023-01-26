@@ -13,7 +13,6 @@ categories: [week 20, planning, project]
 ![Welcome Image]({{site.baseurl}}/images/welcome.png)
 
 ## Home Page (Nikhil)
-<h2> Home page: </h2>
 <p>This page serves as a place to log in and to know more about our overall website and what it is about. </p>
 
 <img width="915" alt="Screenshot 2023-01-25 at 10 45 16 PM" src="https://user-images.githubusercontent.com/111464993/214773981-17a1b8e2-3e8f-46d4-b686-3a29ee50dbd1.png">
@@ -55,8 +54,8 @@ categories: [week 20, planning, project]
 <h3> Future Challenges </h3>
 * One big challenge is trying to connect the Backend to the Front End for the Login page, where the computer has to store all the login information from the registration page. 
 
-
-
+<br>
+<br>
 
 ## Workout Log Page (Sri)
 ![Workout Log]({{site.baseurl}}/images/workoutlogfrontend.jpg)
@@ -65,6 +64,8 @@ categories: [week 20, planning, project]
 - Has a table at the bottom
 - Once you click submit button, it should add onto the table at the bottom (connection between frontend and backend)
 
+<br>
+<br>
 
 ## Workouts Plan (Lydia)
 ![Workout Plans]({{site.baseurl}}/images/WorkoutInput.png)
@@ -72,6 +73,9 @@ categories: [week 20, planning, project]
 - This page is where you can find workout sets and plans for different kinds of sports- all of which are inputted by different users
 - Different categories to let people know which sport the plan benefits, what exercise, and how much time and reps
 - It allows for an organized way for people to share their ideas and workouts with other users on our site
+
+<br>
+<br>
 
 ## ISPE page (Alexa)
 ![ISPE]({{site.baseurl}}/images/ISPEgrades.jpg)
@@ -85,6 +89,8 @@ categories: [week 20, planning, project]
 - This page allows students to keep track of the workouts they do for school and the grades they recieve.
 - It keeps students organized, motivated, and on track to get credit for the class.
 
+<br>
+<br>
 
 ## Inspiration Page (Ava)
 >This page serves as a source of motivation for our users. Users can click on the Inspiration tab in our navigation bar and it will bring them to this page:
@@ -101,6 +107,8 @@ When clicked, the inspiration button will pop up with an inspirational quote:
 Users will be able to submit their own inspirational quotes that will appear in a table for all users to see.  Users will be able to edit or delete their responses.
 <img width="748" alt="inspotablenew" src="https://user-images.githubusercontent.com/111486111/214715621-816d92aa-98f6-4047-9ee7-38c5979defd4.png">
 
+<br>
+<br>
 
 ## Our Challenges (Ava)
 
@@ -117,11 +125,15 @@ Future Challenges:
 3. figuring out how to successfully edit/delete responses from frontend
 4. testing our data: making sure no garbage data,  correct errors returned for garbage, not all users get the same data (unless specified otherwise like for quotes)
 
+<br>
+<br>
 
 ## Admin vs User Access (Alexa)
 - Anyone who is an Admin (Ava, Alexa, Lydia, Sri, Nikhil) can acess all users and their inputs
 - Any user with a normal account will only be able to see/add/edit their own inputs on their pages
 
+<br>
+<br>
 
 ## Scrum Board (Lydia)
 
@@ -131,8 +143,14 @@ Future Challenges:
 - We use this Scrum Board (+ issues within our scrum board) to keep track of the tasks, as well as communicate with team members as to what needs to be accomplished. 
 - Allows for our project to be well planned and organized
 
+<br>
+<br>
+
 ## Our Agile Manifesto (sri)
 ![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
+
+<br>
+<br>
 
 ## Goal/Timeline
 - weekly progress goals
