@@ -13,7 +13,49 @@ categories: [week 20, planning, project]
 ![Welcome Image]({{site.baseurl}}/images/welcome.png)
 
 ## Home Page (Nikhil)
-![home page]({{site.baseurl}}/images/homepage.jpg)
+<h2> Home page: </h2>
+<p>This page serves as a place to log in and to know more about our overall website and what it is about. </p>
+
+<img width="915" alt="Screenshot 2023-01-25 at 10 45 16 PM" src="https://user-images.githubusercontent.com/111464993/214773981-17a1b8e2-3e8f-46d4-b686-3a29ee50dbd1.png">
+
+<br>
+<br>
+<br>
+<br>
+
+
+<p> We have a link that connects to healthline.org and displays the benefits of exercising regularly. We also have displayed what our website includes, such as the ISPE, Sports workout, and Workout Log and what they are.  </p>
+<img width="1118" alt="Screenshot 2023-01-25 at 10 46 13 PM" src="https://user-images.githubusercontent.com/111464993/214774041-35bf6986-df46-482a-9e18-4100a299a7cc.png">
+
+<br>
+<br>
+<br>
+<br>
+
+
+<p> At the very bottom we have a login Burron where we press it and it redirects you to the login Page. </p>
+<img width="1229" alt="Screenshot 2023-01-25 at 10 46 33 PM" src="https://user-images.githubusercontent.com/111464993/214774818-108c02a0-3511-470d-aa26-803a1b809aa3.png">
+
+<br>
+<br>
+<br>
+<br>
+
+
+<p> Here we have a login page that we have designed using HTML and CSS. The login portion asks the user to input their User ID or username and password and there is a checkbox to remember the username and password so the user does not have to re-enter it the next time they come into the website, so far this is just the styling.  We also have an option as you can see in grey where you can continue as a guest which will redirect you back to the website for normal use. </p>
+<img width="1223" alt="Screenshot 2023-01-25 at 10 47 13 PM" src="https://user-images.githubusercontent.com/111464993/214774973-45638940-3c11-45c8-a2cf-23b0b7880bd8.png">
+<br>
+<br>
+<p> The registration portion asks you to enter a username of your choice, your email, and a password of your making, and then it asks you to accept the terms and conditions, we have not created the terms and conditions yet. 
+<img width="1153" alt="Screenshot 2023-01-25 at 10 47 19 PM" src="https://user-images.githubusercontent.com/111464993/214774977-f1f1aab8-4b1e-4f90-b61c-c5624e6838ad.png">
+
+<br>
+<br>
+
+<h3> Future Challenges </h3>
+* One big challenge is trying to connect the Backend to the Front End for the Login page, where the computer has to store all the login information from the registration page. 
+
+
 
 
 ## Workout Log Page (Sri)
