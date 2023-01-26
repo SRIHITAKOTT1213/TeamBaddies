@@ -80,6 +80,10 @@ The registration portion asks you to enter a username of your choice, your email
 
 ## ISPE page (Alexa)
 ![ISPE Main]({{site.baseurl}}/images/ISPEmain.jpg)
+
+<br>
+<br>
+
 ![ISPE Grades]({{site.baseurl}}/images/ISPEgrades.jpg)
 ## What is ISPE?
 **I**ndependent <br>
