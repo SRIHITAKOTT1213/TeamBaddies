@@ -10,6 +10,11 @@ categories: [week 20, planning, project]
 
 ---
 
+## [Our presentation (with many visuals!)](https://srihitakott1213.github.io/TeamBaddies/projectproposal/TeamBaddies)
+
+<br>
+<br>
+
 ### Our CPT Features
 - <mark>Login/Registration Pages</mark>: Nikhil
     - The login portion asks the user to input their User ID or username and password and there is a checkbox to remember the username and password
@@ -39,4 +44,49 @@ categories: [week 20, planning, project]
     - At the bottom of the page, users will see a button for motivation and a place to submit their own quotes
     - When clicked, the inspiration button will pop up with an inspirational quote: "You are a baddie! Keep Slaying <3"
     - Users will be able to submit their own inspirational quotes that will appear in a table for all users to see.  Users will be able to edit or delete their responses
+
+
+<br>
+<br>
+
+### Our Scrum Board
+
+![Scrum Board]({{site.baseurl}}/images/ScrumBoardPresentation.png)
+
+- This Scrum Board highlights and organizes our teams To Do List, our works "In Progress," and tasks we've completed
+- We use this Scrum Board (+ issues within our scrum board) to keep track of the tasks, as well as communicate with team members as to what needs to be accomplished. 
+- Allows for our project to be well planned and organized
+
+<br>
+<br>
+
+### Our Agile Manifesto
+
+![Agile Manifesto]({{site.baseurl}}/images/agilemanifesto.jpg)
+
+<br>
+<br>
+
+### Incorporating CRUD
+- many features on this website will have the ability to recieve input
+- every table will have an edit/delete option so users can update/add/delete their data
+
+<br>
+<br>
+
+### Our Challenges/Future Tasks:
+Past challenges:
+1.  Frontend:
+- Our team had little knowledge of CSS and styling, so we tried new things and went through trial and error until we ended up with our current website design.
+2. Backend:
+- Last week's hacks were definitely a struggle when learning how to create a database for our user data and using an API to call that data from a browser.
+
+Future Challenges:
+1. Figuring out how to connect our frontend to our backend (with correct HTML5 tables)
+2. trying to connect the Backend to the Front End for the Login page, where the computer has to store all the login information from the registration page
+3. preventing garbage data for all of our tables
+4. figuring out how to successfully edit/delete responses from frontend
+5. testing our data: making sure no garbage data,  correct errors returned for garbage, not all users get the same data (unless specified otherwise like for quotes)
+
+
 
