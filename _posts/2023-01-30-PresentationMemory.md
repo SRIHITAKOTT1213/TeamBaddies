@@ -9,8 +9,13 @@ permalink: /projectproposal/memory
 categories: [week 20, planning, project]
 
 ---
+<br>
 
 ## [Our presentation (with many visuals!)](https://srihitakott1213.github.io/TeamBaddies/projectproposal/TeamBaddies)
+
+<br>
+
+### Purpose of project: to aid users in keeping track of their fitness and keeping their motivation/inspiration high
 
 <br>
 <br>
