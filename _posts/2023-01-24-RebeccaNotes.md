@@ -34,9 +34,16 @@ categories: [week 20, planning]
 - issues/scrum board/manifesto
 
 ## Taking into Account for our Group:
-- details = everything!
-- ^ for example, explain the exact purpose of every page (ex: ISPE page is to help kids keep track of their workouts/grades and to ensure they get the credit for the class)
-- include lots of visuals
-- for example, this team included visuals on their scrum board and process, so we can show our agile manifesto and scrum board
-- can make a specific plan of how we are going to accomplish our project on time
+- Presentation:
+    - details = everything!
+    - ^ for example, explain the exact purpose of every page (ex: ISPE page is to help kids keep track of their workouts/grades and to ensure they get the credit for the class)
+    - include lots of visuals (screenshots of everypage/feature)
+    - for example, this team included visuals on their scrum board and process, so we can show our agile manifesto and scrum board
+
+- Project:
+    - can make a specific plan of how we are going to accomplish our project on time (assign roles)
+    - include different access for different users
+        - Rebecca's project allows each club to have access to make edits to (only) their club. Also, ASB is able to edit all clubs on the website.
+        - we want to make it so that users can only edit their own data. Also, we to have admin accounts (team baddies) that have access to all inputed data.
+        - we're planning on making the inso page data accesable to everyone (everyone can see all quotes and get inspired)
 
